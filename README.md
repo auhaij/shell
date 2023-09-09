@@ -9,5 +9,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/auhaij/shell/ma
 
 安装ssh，且禁用pwd
 ````
-wget -N --no-check-certificate https://raw.githubusercontent.com/auhaij/shell/main/journal.sh  && bash journal.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/auhaij/shell/main/ssh-Ins.sh  && bash ssh-Ins.sh
 ````
