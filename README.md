@@ -1,6 +1,7 @@
-# shell
+# 常用脚本
 
 
- ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/auhaij/hysteria/main/hysteria.sh  && bash hysteria.sh
+日志
+````
+wget -N --no-check-certificate https://raw.githubusercontent.com/auhaij/shell/main/journal.sh  && bash hysteria.sh
 ````
